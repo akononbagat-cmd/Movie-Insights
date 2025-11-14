@@ -1,8 +1,8 @@
-Movie Studio Strategy Analysis
+Movie Studio Strategy Analysis ,
 Project Overview
 This project conducts a comprehensive analysis of the movie industry to uncover actionable insights for stakeholders looking to enter the market. By leveraging data from multiple sources including Box Office Mojo, IMDB, and movie_gross, we explore trends in financial performance, audience reception, and market dynamics. The goal is to guide a new movie studio in deciding what types of films to create by identifying which genres and strategies are currently most successful.
 
-Project Team:
+Project Team Members:
 Akonon Bagat, 
 Alvin Mwenda, 
 Augustine Magani ,
@@ -10,7 +10,7 @@ Isabella Siele,
 Nicole Otieno,
 Stephen kimani,
 
-Problem Statement
+Problem Statement.
 
 The company needs to pinpoint what types of movies are most successful in the current market to propel the new studio's launch. Specifically, the project aims to:
 
